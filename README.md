@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bof-Man
+- 👋 Hi, I’m @Bofa Mpama
 - 👀 I’m interested in Web design,
 web development and graphics design.
 
@@ -9,6 +9,6 @@ web development and graphics design.
 email: mpamabofa@gmail.com
 
 <!---
-Bof-Man/Bof-Man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bofa Mpama/Bofa Mpama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
